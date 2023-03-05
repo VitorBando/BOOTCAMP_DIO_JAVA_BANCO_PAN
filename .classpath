@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="controle-de-fluxo/src"/>
+	<classpathentry kind="src" path="documentacao/src"/>
+	<classpathentry kind="src" path="java-anatomia-classes/src"/>
+	<classpathentry kind="src" path="metodos/src"/>
+	<classpathentry kind="src" path="operadores-logicos/src"/>
+	<classpathentry kind="src" path="operadores-relacionais/src"/>
+	<classpathentry kind="src" path="operadores/src"/>
+	<classpathentry kind="src" path="terminal-argumentos/src"/>
+	<classpathentry kind="src" path="tipos-variaveis/src"/>
+	<classpathentry kind="output" path="controle-de-fluxo/bin"/>
+</classpath>
