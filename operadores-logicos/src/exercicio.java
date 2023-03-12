@@ -1,5 +1,4 @@
-import javax.sound.midi.Synthesizer;
-import javax.swing.text.StyledEditorKit.BoldAction;
+
 
 public class exercicio {
     public static void main(String[] args) {

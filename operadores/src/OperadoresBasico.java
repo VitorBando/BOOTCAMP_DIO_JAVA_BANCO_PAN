@@ -1,4 +1,3 @@
-import java.sql.Date;
 
 public class OperadoresBasico {
     public static void main(String[] args) throws Exception {
