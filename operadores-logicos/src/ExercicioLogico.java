@@ -1,6 +1,4 @@
-
-
-public class exercicio {
+public class ExercicioLogico {
     public static void main(String[] args) {
         
         boolean b1 = true;

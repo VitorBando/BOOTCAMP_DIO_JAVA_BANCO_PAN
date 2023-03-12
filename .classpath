@@ -10,5 +10,7 @@
 	<classpathentry kind="src" path="operadores/src"/>
 	<classpathentry kind="src" path="terminal-argumentos/src"/>
 	<classpathentry kind="src" path="tipos-variaveis/src"/>
+	<classpathentry kind="src" path="Estruturas de Repetição e Arrays em Java/src/loops"/>
+	<classpathentry kind="src" path="Estruturas de Repetição e Arrays em Java/src/arrays"/>
 	<classpathentry kind="output" path="controle-de-fluxo/bin"/>
 </classpath>

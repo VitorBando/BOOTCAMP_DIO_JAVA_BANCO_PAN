@@ -1,5 +1,4 @@
-
-public class exercicio {
+public class ExercicioRelacionais {
     public static void main(String[] args) {
         
         int i1 = 10;
