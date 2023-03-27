@@ -12,7 +12,6 @@ public class TiposVariaveis {
         short numeroCurto2 = (short) numeroNormal;
         
         int numero1 = 1;
-        
         numero1 = 2;
         
         int numero2 = 5;
@@ -24,8 +23,13 @@ public class TiposVariaveis {
         final double VALOR_DE_PI = 3.14;
         
         //VALOR_DE_PI = 10.33;
-
-
+        
+        System.out.print("Meu nome é: " + meuNome + 
+                        "\nO salario minimo é: " + salarioMinimo +
+                        "\nO numero curto é: " + numeroCurto2 +
+                        "\nNumero um é: " + numero1 +
+                        "\nE o valor de PI é: " + VALOR_DE_PI);
+        
         
     }
 }

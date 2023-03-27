@@ -18,10 +18,24 @@ public class OperadoresBasico {
         int divisao = 15 / 3;
         int modulo = 18 % 3;
         double resultado = (10 * 7) + (20 / 4);
+        
+        System.out.print("Nome: " + nome +
+                        "\nIdade: " + idade +
+                        "\nPeso: " + peso + 
+                        "\nSexo: " + sexo +
+                        "\nDoador: " + doadorOrgao);
+
+        System.out.println("Soma: " + soma);
+        System.out.println("Subtração: " + subtracao);
+        System.out.println("Multiplicação: " + multiplicacao);
+        System.out.println("Divisão: " + divisao);
+        System.out.println("Modulo: " + modulo);
+        System.out.println("Resultado: " + resultado);
+
 
         String nomeCompleto = "LINGUAGEM " + "JAVA";
         System.out.println(nomeCompleto);
-
+        
         String concatenacao = "?";
 
         concatenacao = 1+1+1+"1";
@@ -35,5 +49,7 @@ public class OperadoresBasico {
         
         concatenacao = "1"+(1+1+1);
         System.out.println(concatenacao);
+
+
     }
 }

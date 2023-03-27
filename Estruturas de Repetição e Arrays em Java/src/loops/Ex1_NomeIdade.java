@@ -21,10 +21,11 @@ public class Ex1_NomeIdade {
             if (nome.equals("0")) break;
             System.out.println("Digite seu idade:"  );
             idade = scan.nextInt();
+            System.out.print("Nome: " + nome + "\nIdade: "+ idade);
         }
-
+        
         System.out.println("Continua aqui...");
-
+        
         scan.close();
     }
 }
