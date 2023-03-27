@@ -12,5 +12,7 @@
 	<classpathentry kind="src" path="tipos-variaveis/src"/>
 	<classpathentry kind="src" path="Estruturas de Repetição e Arrays em Java/src/loops"/>
 	<classpathentry kind="src" path="Estruturas de Repetição e Arrays em Java/src/arrays"/>
+	<classpathentry kind="src" path="Estrutura de Dados/demo/src"/>
+	<classpathentry kind="src" path="Estrutura de Dados/encadeamento"/>
 	<classpathentry kind="output" path="controle-de-fluxo/bin"/>
 </classpath>

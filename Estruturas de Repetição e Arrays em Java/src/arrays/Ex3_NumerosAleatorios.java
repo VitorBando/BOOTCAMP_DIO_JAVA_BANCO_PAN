@@ -1,7 +1,5 @@
 import java.util.Random;
 
-import javax.sound.midi.Synthesizer;
-
 public class Ex3_NumerosAleatorios {
     public static void main(String[] args) {
         
